@@ -1,6 +1,6 @@
 # Usage
 
-```bash
+```
 # install - or download from https://github.com/korylprince/fleetapns/releases
 GOBIN=`pwd` go install github.com/korylprince/fleetapns@v0.1.0
 ./fleetapns -email "<your email>" -org "<your org>" -password pass
